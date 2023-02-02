@@ -1,0 +1,19 @@
+{
+  "name": "codespace-auth-1",
+  "version": "1.0.0",
+  "description": "An auth system designed in github codespace",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaeboston/codespace-auth-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaeboston/codespace-auth-1/issues"
+  },
+  "homepage": "https://github.com/jaeboston/codespace-auth-1#readme"
+}
